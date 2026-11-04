@@ -6,6 +6,7 @@ These days I do most of my building by running many AI coding agents in parallel
 
 ## Selected work
 
+- **Immunefi: 1st place, Fluid Protocol audit competition.** Ranked 1st of 7 in an invite-only competition on Fuel Network (Sway code), with 1 Critical and 1 Medium finding, competing as part of the EXVUL team. [Leaderboard](https://immunefi.com/audit-competition/iop-fluid-protocol/leaderboard/)
 - **Code4rena: 7 High and 18 Medium valid findings.** Top-20 finishes include Chainlink cross-chain contract administration (5th), Arbitrum BoLD (10th) and Optimism Superchain (14th). Example: a High in Revolution Protocol that was the primary issue and selected for the final report ([#210](https://github.com/code-423n4/2023-12-revolutionprotocol-findings/issues/210)).
 - **Cantina: 23 public findings.** Best finish 7th of 50 (Pegasus, 2024).
 - **DeFiHackLabs: exploit PoCs.** Reproduced the Thoreum Finance and DFS Finance attacks as runnable Foundry tests. Merged: [#196](https://github.com/SunWeb3Sec/DeFiHackLabs/pull/196), [#174](https://github.com/SunWeb3Sec/DeFiHackLabs/pull/174)

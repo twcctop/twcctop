@@ -11,7 +11,6 @@ These days I do most of my building by running many AI coding agents in parallel
 - **DeFiHackLabs: exploit PoCs.** Reproduced the Thoreum Finance and DFS Finance attacks as runnable Foundry tests. Merged: [#196](https://github.com/SunWeb3Sec/DeFiHackLabs/pull/196), [#174](https://github.com/SunWeb3Sec/DeFiHackLabs/pull/174)
 - **Morph L2: code review.** Reviewed 36 pull requests across the node ([morph-l2/morph](https://github.com/morph-l2/morph/pulls?q=is%3Apr+reviewed-by%3Atwcctop)) and the execution client ([morph-l2/go-ethereum](https://github.com/morph-l2/go-ethereum/pulls?q=is%3Apr+reviewed-by%3Atwcctop)), 2025–2026.
 - **EXVUL Sec: audit reports.** EVM and Solana audits I worked on as a security auditor, 2024–2025. [Public reports](https://github.com/EXVUL-Sec/AuditReport)
-- **trace3: public hack tracker.** An independent tracker that follows the funds from the October 2026 Binance hot-wallet hack. Built in a few days by running many Claude Code sessions in parallel. [trace3.bgblockchain.xyz](https://trace3.bgblockchain.xyz)
 - **WTF-Solidity: oracle manipulation lesson.** Wrote lesson S15, with a vulnerable contract and a Foundry test. [#361](https://github.com/AmazingAng/WTF-Solidity/pull/361)
 
 <img src="assets/code4rena-highlights.png" alt="Code4rena highlights: 5th Chainlink, 10th Arbitrum BoLD, 14th Optimism Superchain, 17th Munchables, 18th Panoptic" width="560">

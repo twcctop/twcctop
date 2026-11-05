@@ -1,4 +1,4 @@
-# Hi, I'm Ted (Wenchao Tian)
+# Hi, I'm Trevor Tian
 
 Blockchain security engineer. I review smart contracts and protocol code, reproduce real exploits, and trace stolen funds on-chain. Before security I spent six years building Java backends, so I'm comfortable reviewing node and backend code, not only contracts.
 
